@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/ztyZp9j.gif" />
+  <img src="https://i.imgur.com/LqNUsOu.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Oussama Mahdjoub</h1>
 <h3 align="center">A student in computer science at CESI EXIA school</h3>
