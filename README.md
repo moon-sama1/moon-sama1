@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 👨‍💻 All of my projects are available at [Myportfolio](https://moon-sama1.github.io/)
 
 - 📫 How to reach me **oussama2000mahdjoub@gmail.com**
-
-- 📄 Know about my experiences [soon](soon)
 
 - ⚡ Fun fact **There is water on the Moon!**
 
